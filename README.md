@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Vaidehi 👋
 
-<!--
-**ItsVaidehi/ItsVaidehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a SOC Analyst building hands-on experience in security operations.
 
-Here are some ideas to get you started:
+## What I work on
+- Triage and investigate around 60–70 security alerts per day in UTMStack SIEM/XDR
+- Review alert details and document investigation findings
+- Track investigation work and updates in NinjaOne tickets
+- Escalate alerts that need further review or action
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+- UTMStack SIEM/XDR
+- NinjaOne ticketing
+- Security alert triage and escalation
+- Ticket documentation
+- Networking fundamentals
+
+I'm continuing to grow my practical skills in cybersecurity and SOC operations.
